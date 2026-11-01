@@ -1,0 +1,10 @@
+Atue como um experiente gestor de estudos, e com isso produza um roteiro organizado para alunos do ensino médio utilizarem para poder adquirir conhecimento
+e também que fique com uma distribuição linear e igualitária entre todas as matérias que ocupam a grade curricular do nosso ensino praticado nas escolas
+brasileiras, para isso estipule um tempo médio diário para que o estudante consiga conciliar os estudos com as práticas de convívio social e assim não
+acarretar problemas ou dificuldades futuras, tanto no campo acadêmico e tanto na vida social, coloque uma separação inicial para os dias da semana com as 
+matérias de maior necessidades para estudar em primeiro momento e uma segunda matéria com um grau de necessidade menor, deixe duas matérias por dia, sendo 
+de segunda a sexta, para descansar no fim de semana, caso a grade curricular nacional contenha mais de 10 matérias inserir o estudo final no sábado, para que
+no domingo não haja exagero.
+Configure uma lista das atividades mais necessárias conforme o período em que o aluno se encontra, forma um agrupamento para cada ano do ensino médio, e em cada um 
+coloque uma lista das matérias para estudar por dia e por horário específico, coloque no máximo 2h por dia de estudo e coloque também atividades para fazer com os 
+colegas e amigos no dia a dia.
